@@ -1,0 +1,6 @@
+projectKey=it.unimi.dsi:NLP_Assign1
+serverUrl=http://localhost:9000
+serverVersion=6.7.5.38563
+dashboardUrl=http://localhost:9000/dashboard/index/it.unimi.dsi:NLP_Assign1
+ceTaskId=AWbjsxKUMxy90naCLpwP
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWbjsxKUMxy90naCLpwP
